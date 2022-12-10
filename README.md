@@ -1,1 +1,1 @@
-Password for encrypted db is ncmc.
+Password for encrypted db is ncmc
